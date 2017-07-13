@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+  <color name="__picker_toolbar">#efefef</color>
+
   <color name="__picker_pager_bg">#CA000000</color>
   <color name="__picker_selected_bg">#44000000</color>
   <color name="__picker_black_40">#282828</color>

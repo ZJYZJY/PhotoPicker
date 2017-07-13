@@ -3,10 +3,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:fitsSystemWindows="true"
     tools:context="${relativePackage}.${activityClass}"
     >
 
-  <include layout="@layout/__picker_toolbar"/>
+  <include layout="@layout/__picker_toolbar_img"/>
 
   <FrameLayout
       android:id="@+id/container"
